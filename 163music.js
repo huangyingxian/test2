@@ -71,6 +71,6 @@ const puppeteer = require('puppeteer');
   browser.close(); //关闭浏览器
 })();
 ///修改稿 V1.0
-///这才是 V1.0、
-///// 这是master分支内容
+///这才是 V1.0
+///// 这是 dev分支的内容
 
